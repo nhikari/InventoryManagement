@@ -35,7 +35,7 @@ function App() {
           <div className="brand-message">
             <p className="eyebrow">INVENTORY, IN GOOD ORDER</p>
             <h1>Our Lady of the Pillar College</h1>
-            <h2>San Manuel Incorporation</h2>
+            <h2>San Manuel Incorporation </h2>
             <p className="brand-description">
               A clearer view of your stock, your team, and everything that keeps
               your business moving.
